@@ -1,5 +1,6 @@
 # Group19_IDC409-Faculty-profiles-web-scraper-
 Faculty profiles web scraper
+(Please open the code in Google Colab)
 # Faculty Profile Explorer
 
 A reproducible Data Science and AI course project (IDC409). It collects the **public** faculty profile pages of IISER Mohali,
@@ -128,7 +129,12 @@ reproducibility, the evaluation code and the search fallback. They prove the cod
 * Cosine similarity rewards short profiles that consist only of the query words.
 * The clusters describe similarity of research vocabulary, not research quality.
 
-##credits
+## credits
 
 Built with pandas, NumPy, SciPy, scikit-learn,
 matplotlib, requests, BeautifulSoup and SQLite.
+
+## Group 19
+Kartik Saini(MS24144)
+Niharika Saini(Ms24101)
+Tuneer Das(Ms24030)
