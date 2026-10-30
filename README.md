@@ -1,6 +1,6 @@
 # Group19_IDC409-Faculty-profiles-web-scraper-
 Faculty profiles web scraper
-(Please open the code in Google Colab)
+(Please open the code in Google Colab or the graphs will not be visible)
 # Faculty Profile Explorer
 
 A reproducible Data Science and AI course project (IDC409). It collects the **public** faculty profile pages of IISER Mohali,
