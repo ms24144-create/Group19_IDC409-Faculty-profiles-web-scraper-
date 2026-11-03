@@ -135,6 +135,6 @@ Built with pandas, NumPy, SciPy, scikit-learn,
 matplotlib, requests, BeautifulSoup and SQLite.
 
 ## Group 19
-Kartik Saini(MS24144)
-Niharika Saini(Ms24101)
-Tuneer Das(Ms24030)
+Tuneer Das (MS24030) //
+Kartik Saini (MS24144) //
+Niharika Saini (MS24101)
